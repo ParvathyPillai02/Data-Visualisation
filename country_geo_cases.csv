@@ -1,0 +1,234 @@
+iso_code,location,continent,Cases,lat,long
+ABW,Aruba,North America,43913,12.5,-69.97
+AFG,Afghanistan,Asia,207555,33,65
+AGO,Angola,Africa,105095,-12.5,18.5
+AIA,Anguilla,North America,3904,18.25,-63.17
+ALB,Albania,Europe,332738,41,20
+AND,Andorra,Europe,47751,42.5,1.5
+ARE,United Arab Emirates,Asia,1046918,24,54
+ARG,Argentina,South America,9891139,-34,-64
+ARM,Armenia,Asia,446109,40,45
+ASM,American Samoa,Oceania,8285,-14.33,-170
+ATG,Antigua and Barbuda,North America,9114,17.05,-61.8
+AUS,Australia,Oceania,11047174,-27,133
+AUT,Austria,Europe,5700878,47.33,13.33
+AZE,Azerbaijan,Asia,826311,40.5,47.5
+BDI,Burundi,Africa,52162,-3.5,30
+BEL,Belgium,Europe,4679009,50.83,4
+BEN,Benin,Africa,27986,9.5,2.25
+BES,Bonaire Sint Eustatius and Saba,North America,11732,NULL,NULL
+BFA,Burkina Faso,Africa,22023,13,-2
+BGD,Bangladesh,Asia,2037125,24,90
+BGR,Bulgaria,Europe,1292033,43,25
+BHR,Bahrain,Asia,696614,26,50.55
+BHS,Bahamas,North America,37491,24.25,-76
+BIH,Bosnia and Herzegovina,Europe,401000,44,18
+BLM,Saint Barthelemy,North America,5408,NULL,NULL
+BLR,Belarus,Europe,994037,53,28
+BLZ,Belize,North America,69994,17.25,-88.75
+BMU,Bermuda,North America,18622,32.33,-64.75
+BOL,Bolivia,South America,1156157,-17,-65
+BRA,Brazil,South America,36302988,-10,-55
+BRB,Barbados,North America,105515,13.17,-59.53
+BRN,Brunei,Asia,270199,4.5,114.67
+BTN,Bhutan,Asia,62532,27.5,90.5
+BWA,Botswana,Africa,328031,-22,24
+CAF,Central African Republic,Africa,15360,7,21
+CAN,Canada,North America,4492516,60,-95
+CHE,Switzerland,Europe,4380469,47,8
+CHL,Chile,South America,5032352,-30,-71
+CHN,China,Asia,84925042,35,105
+CIV,Cote d'Ivoire,Africa,87941,8,-5
+CMR,Cameroon,Africa,123993,6,12
+COD,Democratic Republic of Congo,Africa,95172,"0,25",
+COG,Congo,Africa,25063,-1,15
+COK,Cook Islands,Oceania,6710,-21.23,-159.77
+COL,Colombia,South America,6353818,4,-72
+COM,Comoros,Africa,8985,-12.17,44.25
+CPV,Cape Verde,Africa,63200,16,-24
+CRI,Costa Rica,North America,1166842,10,-84
+CUB,Cuba,North America,1111972,21.5,-80
+CUW,Curacao,North America,45721,NULL,NULL
+CYM,Cayman Islands,North America,31472,19.5,-80.5
+CYP,Cyprus,Europe,631111,35,33
+CZE,Czechia,Europe,4580079,49.75,15.5
+DEU,Germany,Europe,37385556,51,9
+DJI,Djibouti,Africa,15690,11.5,43
+DMA,Dominica,North America,15760,15.42,-61.33
+DNK,Denmark,Europe,3388439,56,10
+DOM,Dominican Republic,North America,659009,19,-70.67
+DZA,Algeria,Africa,271217,28,3
+ECU,Ecuador,South America,1057001,-2,-77.5
+EGY,Egypt,Africa,515514,27,30
+ERI,Eritrea,Africa,10189,15,39
+ESP,Spain,Europe,13684258,40,-4
+EST,Estonia,Europe,612285,59,26
+ETH,Ethiopia,Africa,497974,8,38
+FIN,Finland,Europe,1453879,64,26
+FJI,Fiji,Oceania,68750,-18,175
+FLK,Falkland Islands,South America,1923,-51.75,-59
+FRA,France,Europe,38199813,46,2
+FRO,Faeroe Islands,Europe,34658,62,-7
+FSM,Micronesia (country),Oceania,22234,"6.92,158.25",
+GAB,Gabon,Africa,48980,-1,11.75
+GBR,United Kingdom,Europe,24193637,54,-2
+GEO,Georgia,Asia,1809827,42,43.5
+GGY,Guernsey,Europe,34117,NULL,NULL
+GHA,Ghana,Africa,171048,8,-2
+GIB,Gibraltar,Europe,20305,36.18,-5.37
+GIN,Guinea,Africa,38224,11,-10
+GLP,Guadeloupe,North America,200533,16.25,-61.58
+GMB,Gambia,Africa,12586,13.47,-16.57
+GNB,Guinea-Bissau,Africa,8947,12,-15
+GNQ,Equatorial Guinea,Africa,17089,2,10
+GRC,Greece,Europe,5588392,39,22
+GRD,Grenada,North America,19671,12.12,-61.67
+GRL,Greenland,North America,11971,72,-40
+GTM,Guatemala,North America,1201694,15.5,-90.25
+GUF,French Guiana,South America,97879,4,-53
+GUM,Guam,Oceania,50002,13.47,144.78
+GUY,Guyana,South America,72086,5,-59
+HND,Honduras,North America,465935,15,-86.5
+HRV,Croatia,Europe,1263517,45.17,15.5
+HTI,Haiti,North America,33969,19,-72.42
+HUN,Hungary,Europe,2185816,47,20
+IDN,Indonesia,Asia,6719819,-5,120
+IMN,Isle of Man,Europe,38008,NULL,NULL
+IND,India,Asia,44679138,20,77
+IRL,Ireland,Europe,1692146,53,-8
+IRN,Iran,Asia,7561058,"32,53",
+IRQ,Iraq,Asia,2465373,33,44
+ISL,Iceland,Europe,208018,65,-18
+ISR,Israel,Asia,4763539,31.5,34.75
+ITA,Italy,Europe,25168438,42.83,12.83
+JAM,Jamaica,North America,152791,18.25,-77.5
+JEY,Jersey,Europe,65784,NULL,NULL
+JOR,Jordan,Asia,1746997,31,36
+JPN,Japan,Asia,29105070,36,138
+KAZ,Kazakhstan,Asia,1493536,48,68
+KEN,Kenya,Africa,342470,1,38
+KGZ,Kyrgyzstan,Asia,206567,41,75
+KHM,Cambodia,Asia,138578,13,105
+KIR,Kiribati,Oceania,3430,1.42,173
+KNA,Saint Kitts and Nevis,North America,6562,17.33,-62.75
+KOR,South Korea,Asia,29059273,"37,127.50",
+KWT,Kuwait,Asia,662918,29.34,47.66
+LAO,Laos,Asia,217776,18,105
+LBN,Lebanon,Asia,1222661,33.83,35.83
+LBR,Liberia,Africa,8054,6.5,-9.5
+LBY,Libya,Africa,507142,25,17
+LCA,Saint Lucia,North America,29748,13.88,-61.13
+LIE,Liechtenstein,Europe,21303,47.17,9.53
+LKA,Sri Lanka,Asia,671892,7,81
+LSO,Lesotho,Africa,34490,-29.5,28.5
+LTU,Lithuania,Europe,1288447,56,24
+LUX,Luxembourg,Europe,312920,49.75,6.17
+LVA,Latvia,Europe,974046,57,25
+MAF,Saint Martin (French part),North America,12206,NULL,NULL
+MAR,Morocco,Africa,1271548,32,-5
+MCO,Monaco,Europe,15948,43.73,7.4
+MDA,Moldova,Europe,596458,"47,29",
+MDG,Madagascar,Africa,67750,-20,47
+MDV,Maldives,Asia,185701,3.25,73
+MEX,Mexico,North America,7265237,23,-102
+MHL,Marshall Islands,Oceania,15544,9,168
+MKD,North Macedonia,Europe,345603,41.83,22
+MLI,Mali,Africa,32770,17,-4
+MLT,Malta,Europe,116384,35.83,14.58
+MMR,Myanmar,Asia,633683,22,98
+MNE,Montenegro,Europe,284724,42,19
+MNG,Mongolia,Asia,1007422,46,105
+MNP,Northern Mariana Islands,Oceania,13236,15.2,145.75
+MOZ,Mozambique,Africa,231039,-18.25,35
+MRT,Mauritania,Africa,63484,20,-12
+MSR,Montserrat,North America,1403,16.75,-62.2
+MTQ,Martinique,North America,227804,14.67,-61
+MUS,Mauritius,Africa,292189,-20.28,57.55
+MWI,Malawi,Africa,88308,-13.5,34
+MYS,Malaysia,Asia,5026164,2.5,112.5
+MYT,Mayotte,Africa,42868,-12.83,45.17
+NAM,Namibia,Africa,170352,-22,17
+NCL,New Caledonia,Oceania,79577,-21.5,165.5
+NER,Niger,Africa,9494,16,8
+NGA,Nigeria,Africa,266450,10,8
+NIC,Nicaragua,North America,15365,13,-85
+NIU,Niue,Oceania,458,-19.03,-169.87
+NLD,Netherlands,Europe,8569186,52.5,5.75
+NOR,Norway,Europe,1475146,62,10
+NPL,Nepal,Asia,1001003,28,84
+NRU,Nauru,Oceania,4621,-0.53,166.92
+NZL,New Zealand,Oceania,2057450,-41,174
+OMN,Oman,Asia,399312,21,57
+PAK,Pakistan,Asia,1575651,30,70
+PAN,Panama,North America,1023778,9,-80
+PCN,Pitcairn,Oceania,4,NULL,NULL
+PER,Peru,South America,4454236,-10,-76
+PHL,Philippines,Asia,4062659,13,122
+PLW,Palau,Oceania,5971,7.5,134.5
+PNG,Papua New Guinea,Oceania,46714,-6,147
+POL,Poland,Europe,6368448,52,20
+PRI,Puerto Rico,North America,1052280,18.25,-66.5
+PRK,North Korea,Asia,0,"40,127",
+PRT,Portugal,Europe,5555690,39.5,-8
+PRY,Paraguay,South America,725365,-23,-58
+PSE,Palestine,Asia,703228,32,35.25
+PYF,French Polynesia,Oceania,77957,-15,-140
+QAT,Qatar,Asia,489332,25.5,51.25
+REU,Reunion,Africa,488508,-21.1,55.6
+ROU,Romania,Europe,3308480,46,25
+RUS,Russia,Europe,21798509,60,100
+RWA,Rwanda,Africa,132979,-2,30
+SAU,Saudi Arabia,Asia,826984,25,45
+SDN,Sudan,Africa,63686,15,30
+SEN,Senegal,Africa,88900,14,-14
+SGP,Singapore,Asia,2201379,1.37,103.8
+SHN,Saint Helena,Africa,2166,-15.93,-5.7
+SLB,Solomon Islands,Oceania,24575,-8,159
+SLE,Sierra Leone,Africa,7760,8.5,-11.5
+SLV,El Salvador,North America,201785,13.83,-88.92
+SMR,San Marino,Europe,23136,43.77,12.42
+SOM,Somalia,Africa,27310,10,49
+SPM,Saint Pierre and Miquelon,North America,3367,46.83,-56.33
+SRB,Serbia,Europe,2445479,44,21
+SSD,South Sudan,Africa,18368,NULL,NULL
+STP,Sao Tome and Principe,Africa,6279,1,7
+SUR,Suriname,South America,81591,4,-56
+SVK,Slovakia,Europe,1859186,48.67,19.5
+SVN,Slovenia,Europe,1307915,46,15
+SWE,Sweden,Europe,2678465,62,15
+SWZ,Eswatini,Africa,74021,-26.5,31.5
+SXM,Sint Maarten (Dutch part),North America,10993,NULL,NULL
+SYC,Seychelles,Africa,50355,-4.58,55.67
+SYR,Syria,Asia,57423,35,38
+TCA,Turks and Caicos Islands,North America,6479,21.75,-71.58
+TCD,Chad,Africa,7650,15,19
+TGO,Togo,Africa,39343,8,1.17
+THA,Thailand,Asia,4723954,15,100
+TJK,Tajikistan,Asia,17786,39,71
+TKL,Tokelau,Oceania,5,-9,-172
+TKM,Turkmenistan,Asia,0,40,60
+TLS,Timor,Asia,23397,NULL,NULL
+TON,Tonga,Oceania,16412,-20,-175
+TTO,Trinidad and Tobago,North America,186033,11,-61
+TUN,Tunisia,Africa,1147571,34,9
+TUR,Turkey,Asia,17004677,39,35
+TUV,Tuvalu,Oceania,2779,-8,178
+TZA,Tanzania,Africa,42396,"-6,35",
+UGA,Uganda,Africa,169980,1,32
+UKR,Ukraine,Europe,5357941,49,32
+URY,Uruguay,South America,1012017,-33,-56
+USA,United States,North America,99411696,38,-97
+UZB,Uzbekistan,Asia,249675,41,64
+VAT,Vatican,Europe,26,41.9,12.45
+VCT,Saint Vincent and the Grenadines,North America,9735,13.25,-61.2
+VEN,Venezuela,South America,550388,8,-66
+VGB,British Virgin Islands,North America,7305,"18.5,-64.5",
+VIR,United States Virgin Islands,North America,23776,"18.33,-64.83",
+VNM,Vietnam,Asia,11525144,16,106
+VUT,Vanuatu,Oceania,12014,-16,167
+WLF,Wallis and Futuna,Oceania,3427,-13.3,-176.2
+WSM,Samoa,Oceania,16279,-13.58,-172.33
+YEM,Yemen,Asia,11945,15,48
+ZAF,South Africa,Africa,4048580,-29,24
+ZMB,Zambia,Africa,334196,-15,30
+ZWE,Zimbabwe,Africa,260100,-20,30
